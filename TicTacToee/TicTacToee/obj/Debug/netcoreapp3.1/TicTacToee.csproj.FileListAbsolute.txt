@@ -1,0 +1,15 @@
+C:\Users\pyszo\source\repos\TicTacToee\TicTacToee\bin\Debug\netcoreapp3.1\TicTacToee.exe
+C:\Users\pyszo\source\repos\TicTacToee\TicTacToee\bin\Debug\netcoreapp3.1\TicTacToee.deps.json
+C:\Users\pyszo\source\repos\TicTacToee\TicTacToee\bin\Debug\netcoreapp3.1\TicTacToee.runtimeconfig.json
+C:\Users\pyszo\source\repos\TicTacToee\TicTacToee\bin\Debug\netcoreapp3.1\TicTacToee.runtimeconfig.dev.json
+C:\Users\pyszo\source\repos\TicTacToee\TicTacToee\bin\Debug\netcoreapp3.1\TicTacToee.dll
+C:\Users\pyszo\source\repos\TicTacToee\TicTacToee\bin\Debug\netcoreapp3.1\TicTacToee.pdb
+C:\Users\pyszo\source\repos\TicTacToee\TicTacToee\obj\Debug\netcoreapp3.1\TicTacToee.csprojAssemblyReference.cache
+C:\Users\pyszo\source\repos\TicTacToee\TicTacToee\obj\Debug\netcoreapp3.1\TicTacToee.Form1.resources
+C:\Users\pyszo\source\repos\TicTacToee\TicTacToee\obj\Debug\netcoreapp3.1\TicTacToee.csproj.GenerateResource.cache
+C:\Users\pyszo\source\repos\TicTacToee\TicTacToee\obj\Debug\netcoreapp3.1\TicTacToee.AssemblyInfoInputs.cache
+C:\Users\pyszo\source\repos\TicTacToee\TicTacToee\obj\Debug\netcoreapp3.1\TicTacToee.AssemblyInfo.cs
+C:\Users\pyszo\source\repos\TicTacToee\TicTacToee\obj\Debug\netcoreapp3.1\TicTacToee.csproj.CoreCompileInputs.cache
+C:\Users\pyszo\source\repos\TicTacToee\TicTacToee\obj\Debug\netcoreapp3.1\TicTacToee.dll
+C:\Users\pyszo\source\repos\TicTacToee\TicTacToee\obj\Debug\netcoreapp3.1\TicTacToee.pdb
+C:\Users\pyszo\source\repos\TicTacToee\TicTacToee\obj\Debug\netcoreapp3.1\TicTacToee.genruntimeconfig.cache
